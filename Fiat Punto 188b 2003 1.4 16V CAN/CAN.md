@@ -128,7 +128,7 @@ byte 1 - speed low byte
 
 byte 2 - 00 always
 
-byte 3 - CA always
+byte 3 - CA always (changing this value will update the odometer)
 
 
 =============================================================================
